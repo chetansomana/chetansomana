@@ -9,5 +9,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"> <img src="https://github.com/chetansomana/vim_public/blob/master/1692033337201.png" alt="linux" width="40" height="40"/> </a>
+
+</p>
+<p align="left">
+  <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"> <img src="https://github.com/chetansomana/vim_public/blob/master/1692033337201.png" alt="system verilog" width="40" height="40"/> </a>
+</p>
+  <p align="left">
+  <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"> <img src="https://github.com/chetansomana/vim_public/blob/master/1692036369243.png" alt="uvm" width="40" height="40"/> </a>
 </p>
