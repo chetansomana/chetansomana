@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Somana</h1>
-<h3 align="center">Enthusiast engineer with 2 years of experience in design verification. Aware of RTL to GDS II flow. Excellent coding / debugging skills in SV, UVM using the tool interactive debugger. Good knowledge in digital electronics, data structures, scripting.</h3>
+<h3 align="left">Enthusiast engineer with 2 years of experience in design verification. Aware of RTL to GDS II flow. Excellent coding / debugging skills in SV, UVM using the tool interactive debugger. Good knowledge in digital electronics, data structures, scripting.</h3>
 
 - 📫 How to reach me **chetan.somana@cyient.com**
 
@@ -15,5 +15,5 @@
   <a href="https://ieeexplore.ieee.org/document/8299595" target="_blank" rel="noreferrer"> <img src="https://github.com/chetansomana/vim_public/blob/master/1692033337201.png" alt="system verilog" width="40" height="40"/> </a>
 </p>
   <p align="left">
-  <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"> <img src="https://github.com/chetansomana/vim_public/blob/master/1692036369243.png" alt="uvm" width="40" height="40"/> </a>
+  <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"> <img src="https://github.com/chetansomana/vim_public/blob/master/uvm.jpg" alt="uvm" width="40" height="40"/> </a>
 </p>
