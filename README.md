@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Somana</h1>
-<h3 align="left">Enthusiast engineer with 2 years of experience in design verification. Aware of RTL to GDS II flow. Excellent coding / debugging skills in SV, UVM using the tool interactive debugger. Good knowledge in digital electronics, data structures, scripting.</h3>
+<h3 align="left">Seasoned ASIC Verification Engineer with 2 years of experience. I thrive in fast-paced environments where work cultrue and creativity are paramount. Aware of RTL to GDS II flow. Excellent coding / debugging skills in SV, UVM using the tool interactive debugger. Good knowledge in digital electronics, data structures, scripting.</h3>
 
 - 📫 How to reach me **chetan.somana@cyient.com**
 
