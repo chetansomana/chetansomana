@@ -14,11 +14,11 @@
     </u>
 </p>
 <p>
-    Seasoned ASIC Verification Engineer with 2+ years of experience. I  thrive
-    in fast-paced environments where work culture and creativity are  paramount.
-    Aware of RTL to GDS II flow. Excellent coding / debugging skills in  SV, UVM
-    using the tool interactive debugger. Good knowledge in digital  electronics,
-    data structures, scripting.
+    Seasoned ASIC Verification Engineer with 2+ years of experience in automotive pmic, 
+    protocols like I2C, QSPI, AXI4 Lite, Dual port memory.  I thrive in fast-paced 
+    environments where work culture and creativity are paramount. Aware of RTL2GDSII flow.
+    Excellent coding / debugging skills in SV, UVM using the tool interactive debugger. 
+    Good knowledge in digital electronics, data structures, scripting and OOPS.
 </p>
 <p>
     _________________________________________________________________________________________
