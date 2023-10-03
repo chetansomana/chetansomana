@@ -2,7 +2,7 @@
 <h3 align="left">Seasoned ASIC Verification Engineer with 2+ years of experience in automotive pmic, protocols like I2C, QSPI, AXI4 Lite, Dual port memory. I thrive in fast-paced environments where work culture and creativity are paramount. Aware of RTL2GDSII flow. Excellent coding / debugging skills in SV, UVM using the tool interactive debugger. Good knowledge in digital electronics, data structures, scripting and OOPS.</h3>
 
 - 📫 How to reach me **chetan.somana@gmail.com** **7093879657**
-- preview CV **https://github.com/chetansomana/chetansomana/blob/main/resume.md**
+- preview CV **https://github.com/chetansomana/chetansomana/blob/main/CV.md**
 - download CV **https://github.com/chetansomana/chetansomana/blob/main/chetan_somana.pdf**
 
 <h3 align="left">Connect with me:</h3>
