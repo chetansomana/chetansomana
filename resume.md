@@ -104,22 +104,6 @@
     <strong>Maintenance work explored:</strong>
 </p>
 <p>
-    &gt; Creating dashboard/ queries in Jira  to get holistic view of the
-    tickets flagged during verification.
-</p>
-<p>
-    &gt; Creating Documentation in confluence  to explaining the flow of
-    creating coverage for the register model.
-</p>
-<p>
-    &gt; Maintaining the main branch of GIT  version control while team lead is
-    away. Able to deliver successful release tag  to design verification team
-    and as well as AMS team.
-</p>
-<p>
-    <strong>Maintenance work explored:</strong>
-</p>
-<p>
     &gt; Creating dashboard/ queries in Jira to get  holistic view of the
     tickets flagged during verification.
 </p>
