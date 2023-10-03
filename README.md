@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **chetan.somana@gmail.com** **7093879657**
 - preview CV **https://github.com/chetansomana/chetansomana/blob/main/CV.md**
-- download CV **https://github.com/chetansomana/chetansomana/blob/main/chetan_somana.pdf**
+- download resume **https://github.com/chetansomana/chetansomana/blob/main/chetan_somana.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/chetan-somana/
