@@ -2,7 +2,7 @@
 <h3 align="left">Seasoned ASIC Verification Engineer with over 3 years of experience in high-paced environments. Aware of RTL to GDS II flow, with excellent coding and debugging skills in System Verilog and UVM. Demonstrated expertise in digital electronics, data structures, computer architecture design, and scripting. Proven track record of delivering high-quality verification solutions for complex ASIC designs. </h3>
 
 - 📫 How to reach me **chetan.somana@gmail.com** **7093879657**
-- download resume **https://github.com/chetansomana/chetansomana/blob/main/chetan_somana.pdf**
+- download resume **https://github.com/chetansomana/chetansomana/blob/main/Chetan_Somana_Resume.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/chetan-somana/
